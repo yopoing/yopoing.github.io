@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>胡明星的个人博客</title>
+    <description>胡明星，网名鸟嘌呤、yopoing,专注于IT培训、网络教育和web编程技术的研究，分享原创中文精品教程。</description>
+    <link>http://humingxing.com/</link>
+    <atom:link href="http://humingxing.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Sep 2015 00:28:11 -0700</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2015 00:28:11 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>

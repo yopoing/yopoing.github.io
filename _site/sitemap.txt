@@ -1,0 +1,12 @@
+
+  /404.html
+
+  /index.html
+
+  /rss.xml
+
+  /search.xml
+
+  /sitemap.txt
+
+
