@@ -1,0 +1,15 @@
+# jekyll
+
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# linux
+
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
