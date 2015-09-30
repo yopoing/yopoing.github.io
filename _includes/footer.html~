@@ -1,6 +1,0 @@
-<button id="js-fullscreen"><span id="icon-arrow" class="fontello"></span></button>
-<a id="rocket" href="#top" title="返回顶部"><i></i></a>
-<script src="/assets/js/jquery.js"></script>
-<script src="/assets/js/jquery.pjax.js"></script>
-<script src="/assets/js/nprogress.js"></script>
-<script src="/assets/js/script.js"></script>
